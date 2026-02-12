@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Palindrome](https://img.shields.io/badge/Palindrome_Checker-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-Built in 2024 to showcase my first projects and mark the completion of this learning journey.
+An old project build back in 2024 as the start of my journey and posted here to preserve my path.
 
 A palindrome checker application — the **first project** in FreeCodeCamp's JavaScript Algorithms and Data Structures certification. Built to detect whether a given string reads the same forwards and backwards, ignoring punctuation, case, and spacing.
 
