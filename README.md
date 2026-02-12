@@ -9,10 +9,6 @@ A palindrome checker application — the **first project** in FreeCodeCamp's Jav
 
 The project only consists of **JavaScript** + **HTML** + **CSS** and was made as a part of FreeCodeCamp's JavaScript Algorithms and Data Structures course.
 
->[My official FCC's Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)
-
-![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png)
-
 ---
 ## 📋 Project Requirements
 
@@ -53,7 +49,9 @@ This project fulfills all **16 user stories** from FreeCodeCamp's "Build a Palin
 The first project I built using JS for FCC's Javascript course. It checks if the string in the input is written the same way from the left and from the right - in other words, the palindrome!<br>
 Each project in that course took me a lot of time to accomplish. I remember googling and reading how others solved the tasks from the project requirements and trying to recreate it.
 
-![Page Gif](./public/demo.gif)
+| **Palindrome Checker Preview** |
+|---|
+| ![Page Gif](./public/demo.gif) 
 
 <div align="right"><i>submitted to FreeCodeCamp on Nov 12, 2024</i></div>
 
@@ -64,5 +62,6 @@ Each project in that course took me a lot of time to accomplish. I remember goog
 [![Live Demo](https://img.shields.io/badge/demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rue-eru.github.io/FCC-JS-1-palindrome-checker/)
 ---
 
-*Part of my [FreeCodeCamp journey](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)*
-
+| My official [FreeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8) |
+|---|
+| ![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png) |
